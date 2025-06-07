@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 model = joblib.load("predictive_maintenance_model.joblib")
 
 st.set_page_config(page_title="Predictive Maintenance Dashboard", layout="centered")
-st.title("🔧 AI-DRIVEN Predictive Maintenance")
+st.title("🔧 AI-DRIVENgit add requirements.txt Predictive Maintenance")
 st.markdown("Use machine data to assess potential **failure risks** and plan proactive maintenance.")
 
 # User input sliders
